@@ -7,10 +7,10 @@ permalink: /about/
 
 ## Education
 
-* PhD in Bioinformatics and Computational Biology, University of Idaho (Current)
-* MS in Biomedical Sciences and Translational Medicine, Cedars-Sinai Medical Center (2017)
-* MS in Nursing, University of California (2012)
-* BS in Biochemistry, University of California (2009)
+* PhD student in Bioinformatics and Computational Biology, University of Idaho (Current)
+* MS in Biomedical Sciences and Translational Medicine, Cedars-Sinai Medical Center, Los Angeles (2017)
+* MS in Nursing, University of California, Los Angeles (2012)
+* BS in Biochemistry, University of California, Los Angeles (2009)
 
 ## Professional Positions
 
