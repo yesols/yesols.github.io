@@ -22,8 +22,9 @@ footer-links:
   github: yesols
   instagram: jottermeow
   linkedin: www.linkedin.com/in/yesol-sapozhnikov-bb852b36
+
   pinterest:
-  rss: rsss # just type anything here for a working RSS icon
+  rss: # just type anything here for a working RSS icon
   twitter: jottermeow
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
