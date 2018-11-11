@@ -14,6 +14,7 @@ permalink: /about/
 
 ## Professional Positions
 
-* Education Program Coordinator, Medical-Surgical Nursing Services, Cedars-Sinai Medical Center, Los Angeles (2014-2018)
-* Clinical Nurse II, Hematology/Oncology/Bone Marrow Transplant, Cedars-Sinai Medical Center, Los Angeles (2012-2014)
+* Graduate Research Assistant, Wichman/Miller Lab, University of Idaho, Moscow, ID (Current)
+* Education Program Coordinator, Medical-Surgical Nursing Services, Cedars-Sinai Medical Center, Los Angeles, CA (2014-2018)
+* Clinical Nurse II, Hematology/Oncology/Bone Marrow Transplant, Cedars-Sinai Medical Center, Los Angeles, CA (2012-2014)
 
