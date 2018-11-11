@@ -2,8 +2,16 @@
 layout: default
 ---
 
-<h1> Welcome! </h1>
-<p>My name is Yesol.
+<h1> Hello! </h1>
+<p> I am a PhD student at University of Idaho, a registered nurse, and a hobby artist.
+  My academic interests oscillated between basic science and clinical nursing throughout my life;
+  the desire to be a scientist finally won over and I moved to beautiful Idaho to study biological questions
+   using mathematical and computational methods.<\p>
+<p> Check out my "About" and "Projects" pages and feel free to contact me if you have any questions.<\p>
+
+<a href="{{ site.baseurl }}{{ about }}" class="button button-primary">About</a>
+<a href="{{ site.baseurl }}{{ projects }}" class="button button-primary">Projects</a>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
