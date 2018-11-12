@@ -12,7 +12,7 @@ Viruses constantly undergo random mutations as they replicate. Those with mutati
 ## Past Projects
 
 ### Genetics of Lipoprotein Lipase Activity
-Lipoprotein lipase (LPL) is an important enzyme in triglyeride metabolism and is implicated in cardiac diseases and metabolic syndrome. I studied the relationship between lipid traits and LPL activity in Mexican Americans using statistical analyses and various computational tools.
+Lipoprotein lipase (LPL) is an important enzyme in triglyceride metabolism and is implicated in cardiac diseases and metabolic syndrome. I studied the relationship between lipid traits and LPL activity in Mexican Americans using statistical analyses and various computational tools.
 
 ### Clinical Projects
 
