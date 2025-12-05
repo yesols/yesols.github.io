@@ -13,7 +13,7 @@ profile:
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral fellow in the Idaho Office of Underserved and Rural Medical Research in the School of Health and Medical Professions, University of Idaho. I began my career as a licensed vocational nurse in California, building experience in caring for diverse patient populations in acute and long-term care facilities around Los Angeles. In the meantime, I continued to pursue education and earned degrees in **biochemistry** (BS), **nursing** (MSN), **biomedical science** (MS), and **bioinformatics and computational biology** (PhD).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have a wide-ranging research interests including **rural health**, **population-level health outcomes**, and **genomics**. I am particularly interested in utilizing **statistical modeling** and **machine learning** methods to study health outcomes from high-dimensional data. 
