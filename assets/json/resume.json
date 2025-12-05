@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "School of Health and Medical Professions, University of Idaho",
+      "name": "School of Health and Medical Professions, University of Idaho, Moscow, ID",
       "position": "Postdoctoral Fellow",
       "url": "",
       "startDate": "2025-01-01",
@@ -33,7 +33,14 @@
       "highlights": ["Idaho Healthcare", "Research mentor for students", "Biomedical research"]
     },
     {
-      "name": "Biological Sciences, University of Idaho",
+      "name": "Gritman Medical Center, Moscow, ID",
+      "position": "COVID-19 Testing Specialist",
+      "startDate": "2020-07-01",
+      "endDate": "2020-08-01",
+      "highlights": ["Nasal specimen collection"]
+    },
+    {
+      "name": "Department of Biological Sciences, University of Idaho, Moscow, ID",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2018-08-01",
@@ -42,7 +49,7 @@
       "highlights": ["Protein stability", "Bacteriophage"]
     },
     {
-      "name": "Medical-Surgical Nursing Services, Cedars-Sinai Medical Center, Los Angeles",
+      "name": "Medical-Surgical Nursing Services, Cedars-Sinai Medical Center, Los Angeles, CA",
       "position": "Education Program Coordinator",
       "url": "",
       "startDate": "2014-12-01",
@@ -51,20 +58,20 @@
       "highlights": ["Staff training and education", "Patient care support", "Data management"]
     },
     {
-      "name": "Hematology/Oncology/Bone Marrow Transplant, Cedars-Sinai Medical Center, Los Angeles",
+      "name": "Hematology/Oncology/Bone Marrow Transplant, Cedars-Sinai Medical Center, Los Angeles, CA",
       "position": "Clinical Nurse II",
       "url": "",
-      "startDate": "2012-06-01",
+      "startDate": "2012-08-01",
       "endDate": "2014-12-01",
       "summary": "",
       "highlights": ["Hematopoetic stem cell transplant", "Chemotherapy", "Hospice"]
     },
     {
-      "name": "Various facilities, Los Angeles",
+      "name": "Various facilities, Los Angeles, CA",
       "position": "Licensed Vocational Nurse",
       "url": "",
       "startDate": "2004-01-01",
-      "endDate": "2012-01-01",
+      "endDate": "2011-01-01",
       "summary": "",
       "highlights": []
     }
@@ -90,8 +97,8 @@
       "url": "",
       "area": "Biomedical Science",
       "studyType": "MS",
-      "startDate": "2015-07-01",
-      "endDate": "2017-07-01",
+      "startDate": "2015-08-01",
+      "endDate": "2017-12-01",
       "score": "",
       "courses": []
     },
@@ -101,7 +108,7 @@
       "url": "",
       "area": "Nursing",
       "studyType": "MSN",
-      "startDate": "2010-08-01",
+      "startDate": "2010-09-01",
       "endDate": "2012-06-01",
       "score": "",
       "courses": []
@@ -112,7 +119,7 @@
       "url": "",
       "area": "Biochemistry",
       "studyType": "BS",
-      "startDate": "2007-08-01",
+      "startDate": "2007-09-01",
       "endDate": "2009-12-01",
       "score": "",
       "courses": []
@@ -124,30 +131,42 @@
   ],
   "certificates": [
     {
-      "name": "",
+      "name": "Registered Nurse Lic #64686",
       "date": "",
-      "issuer": "",
+      "issuer": "Idaho Board of Nursing",
       "url": "",
       "icon": ""
+    },
+    {
+      "name": "HeartCode Complete BLS Provider",
+      "date": "",
+      "issuer": "American Heart Association"
     }
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "name": "See Publications page"
     }  
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Programming languages",
       "level": "",
       "icon": "",
-      "keywords": [
-        
+      "keywords": ["R", "Python", "bash", "SQL"  
       ]
+    },
+    {
+      "name": "Statistical analysis",
+      "keywords": ["predictive modeling", "inferential methods", "epidemiological studies"]
+    },
+    {
+      "name": "Data science",
+      "keywords": ["sequencing data", "electronic health records", "machine learning"]
+    },
+    {
+      "name": "Software",
+      "keywords": ["various command-line tools", "Power BI"]
     }
   ],
   "languages": [
@@ -163,13 +182,7 @@
     }
   ],
   "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        
-      ]
-    }
+
   ],
   "references": [
     

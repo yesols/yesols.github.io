@@ -7,7 +7,7 @@ subtitle: <a href='https://www.uidaho.edu/health-medical-professions/idaho-under
 
 profile:
   align: right
-  image: yesols.jpg
+  image: yesol_bee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral fellow in the Idaho Office of Underserved and Rural Medical Research in the School of Health and Medical Professions, University of Idaho. I began my career as a licensed vocational nurse in California, building experience in caring for diverse patient populations in acute and long-term care facilities around Los Angeles. In the meantime, I continued to pursue education and earned degrees in **biochemistry** (BS), **nursing** (MSN), **biomedical science** (MS), and **bioinformatics and computational biology** (PhD).
+I am a postdoctoral fellow in the Idaho Office of Underserved and Rural Medical Research (IOURMR) in the School of Health and Medical Professions, University of Idaho. I began my career as a licensed vocational nurse in California, building experience in caring for diverse patient populations in acute and long-term care facilities around Los Angeles. In the meantime, I continued to pursue education and earned degrees in **biochemistry** (BS), **nursing** (MSN), **biomedical science** (MS), and **bioinformatics and computational biology** (PhD).
 
 I have a wide-ranging research interests including **rural health**, **population-level health outcomes**, and **genomics**. I am particularly interested in utilizing **statistical modeling** and **machine learning** methods to study health outcomes from high-dimensional data. 
