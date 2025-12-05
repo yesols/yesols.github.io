@@ -2,20 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yesol Sapozhnikov
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Idaho, Moscow, ID
+      year: 2024
       description:
-        - Description 1.
+        - Bioinformatics and Computational Biology
         - Description 2.
         - title: Description 3.
           contents:
