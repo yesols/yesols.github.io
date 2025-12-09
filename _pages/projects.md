@@ -9,6 +9,29 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+## Featured
+
+<div class="container">
+  <div class="row">
+  {% for project in site.projects %}
+    <div class="col-sm-6 col-md-4 mb-4"> <a href="{{ project.url | relative_url }}">
+        <div class="card hoverable h-100">
+          {% if project.img %}
+            <img src="{{ project.img | relative_url }}" class="card-img-top" alt="{{ project.title }}">
+          {% endif %}
+          <div class="card-body">
+            <h5 class="card-title">{{ project.title }}</h5>
+            <p class="card-text">{{ project.description }}</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+<br> 
+
 ## Current Projects
 
 ##### **Rural Heart Failure Patients and Perceived Health**
