@@ -44,9 +44,9 @@ Antibiotic-resistant infections pose a serious global health threat. In this pro
 
 <br>
 ## Student Projects
-I mentor students conducting research projects using *All of Us* data. The *All of Us* Research Program, funded by NIH, is a historic effort to gather health data from over one million people across the United States to advance precision medicine. Registered researchers can access the large, diverse data from electronic health records, survey responses, wearables, and genome sequencing.  
+I mentor students conducting research projects using *All of Us* data. The *All of Us* Research Program, funded by NIH, is a historic effort to gather health data from over one million people across the United States to advance precision medicine. Registered researchers can access the large, diverse data from electronic health records, survey responses, wearables, and genome sequencing. 
 
-##### **[Resources](/all-of-us/) to get started with *All of Us* data**
+Students interested in *All of Us* projects, click on the "Getting Started" featured card at the top of the page.
 
 ##### **Mentored Projects:**<br>
 --Skin cancer and barriers to healthcare access<br>
