@@ -36,7 +36,7 @@ category: work
         </div>
     </div>
 
-* Familiarize with **Jupyter Notebook **
+* Familiarize with **Jupyter Notebook**
     * Researcher Workbench offers several apps: Jupyter Notebook, R Studio and SAS Studio. However, I recommend using Jupyter Notebook due to less cost and better stability.
     * Jupyter Notebook in 10 Minutes (Don't worry about installing and running it. Just watch and get acquainted with the interface)
     <div class="row mt-3">
