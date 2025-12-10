@@ -36,7 +36,8 @@ horizontal: false
         </div>
     </div>
 
-7. Extra: Browse Featured Workspaces, duplicate one and explore. 
+7. Create a Workspace for this project -- I will provide details via email
+8. Extra: Browse Featured Workspaces, duplicate one and explore. 
 
 ##### **Week 2: Data Organization and Extraction (EHR and Survey)**
 1. Learn to use Cohort Builder and Dataset Builder
