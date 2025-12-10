@@ -5,6 +5,7 @@ description:
 img: assets/img/aou.jpg
 importance: 1
 category: work
+permalink: /all-of-us/
 ---
 
 ##### **1. Registration and Training**
