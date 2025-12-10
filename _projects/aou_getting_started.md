@@ -29,6 +29,10 @@ permalink: /all-of-us/
     * [Exploring concepts with OMOP and SQL](https://support.researchallofus.org/hc/en-us/articles/360039585491-Exploring-Concepts-with-OMOP-and-SQL) (You can gnore SQL section unless you will be using manual SQL queries) 
 
 ##### **3. Learn to use Researcher Workbench**
+* Create a Workspace for your project
+    * Step-by-step [Creating a Workspace](https://support.researchallofus.org/hc/en-us/articles/30143658322836-Creating-a-Workspace)
+    * [Writing Your Workspace Description](https://support.researchallofus.org/hc/en-us/articles/30351591538580-Writing-Your-Workspace-Description)
+    * [Sample Workspace Description](https://support.researchallofus.org/hc/en-us/articles/360042673211-Sample-Workspace-Description)
 * Learn to use **Cohort Builder** and **Dataset Builder**
     <div class="row mt-3">
         <div class="col-sm-10 mx-auto"> <div class="ratio ratio-16x9">
