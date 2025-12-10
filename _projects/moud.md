@@ -7,9 +7,18 @@ importance: 2
 category: work
 ---
 
-IOURMR researchers in the School of Health and Medical Professions, University of Idaho, developed this toolkit with the Idaho Department of Health and Welfare.
+University of Idaho’s School of Health and Medical Professions, with funding support from the Idaho Department of Health and Welfare, developed the Medications for Opioid Use Disorder (MOUD) toolkit to support Idaho health care providers to deliver evidence-based care for individuals with opioid use disorder (OUD) using MOUD. It is intended to be a comprehensive and accessible resource for Idaho providers to deliver compassionate, effective, and sustainable OUD care across clinical settings. It provides practical guidance for implementing MOUD including background information, induction protocols, validated screening and diagnostic tools, workflow checklists and sample policies.
 
-The toolkit consists of three short videos and a booklet, available as a PDF.
+**Project Members:** <br>
+--Madeline P. Casanova, PhD <br>
+--Yesol Sapozhnikov, PhD, RN <br>
+--Kinsey Walt <br>
+--Alexandra Dluzniewski, PhD <br>
+--Jonathan D. Moore, PhD <br>
+--Emma Zado <br>
+--India King, PsyD <br>
+--Radha Sadacharan, MD, MPH<br>
+
 
 <div class="row mt-3">
     <div class="col-sm-12">
