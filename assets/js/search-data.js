@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'Getting Started with All of Us Data',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/aou_getting_started/";
+              window.location.href = "/all-of-us/";
             },},{id: "projects-medications-for-opioid-use-disorders-toolkit",
           title: 'Medications for Opioid Use Disorders Toolkit',
           description: "",
