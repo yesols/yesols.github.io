@@ -31,6 +31,7 @@ permalink: /all-of-us/
 ##### **3. Learn to use Researcher Workbench**
 * Create a Workspace for your project
     * Step-by-step [Creating a Workspace](https://support.researchallofus.org/hc/en-us/articles/30143658322836-Creating-a-Workspace)
+        * **NOTE** When selecting data access tier, make sure to choose **Controlled Tier**. In most cases, this is what we want. For Dataset Version, choose v8 (whatever the latest)
     * [Writing Your Workspace Description](https://support.researchallofus.org/hc/en-us/articles/30351591538580-Writing-Your-Workspace-Description)
     * [Sample Workspace Description](https://support.researchallofus.org/hc/en-us/articles/360042673211-Sample-Workspace-Description)
 * Learn to use **Cohort Builder** and **Dataset Builder**

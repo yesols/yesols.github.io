@@ -25,7 +25,7 @@ horizontal: false
     * [Participant privacy protections](https://support.researchallofus.org/hc/en-us/articles/4552681983764-Participant-Privacy-Protections) 
     * [Understanding OMOP basics](https://support.researchallofus.org/hc/en-us/articles/360039585391-Understanding-OMOP-Basics) 
     * [Exploring concepts with OMOP and SQL](https://support.researchallofus.org/hc/en-us/articles/360039585491-Exploring-Concepts-with-OMOP-and-SQL) (Ignore SQL section) 
-5. Baylor College of Medicine Train-the-Trainer Videos 
+5. Baylor College of Medicine Train-the-Trainer Videos (Link to be sent via email)
     * Dropbox folders with recording files: Watch Lesson 1: Intro to the Workbench, and Lesson 2: Creating a dataset: Workspaces, Phenotypes & Cohorts 
 6. Jupyter Notebook 
     * Jupyter Notebook in 10 Minutes (Don't worry about installing and running it. Just watch and get acquainted with the interface)
@@ -36,8 +36,13 @@ horizontal: false
         </div>
     </div>
 
-7. Create a Workspace for this project -- I will provide details via email
-8. Extra: Browse Featured Workspaces, duplicate one and explore. 
+7. Create a Workspace for this project (I will send you project descriptions)
+    * Step-by-step [Creating a Workspace](https://support.researchallofus.org/hc/en-us/articles/30143658322836-Creating-a-Workspace)
+        * **NOTE** When selecting data access tier, make sure to choose **Controlled Tier**. In most cases, this is what we want. For Dataset Version, choose v8 (whatever the latest)
+    * [Writing Your Workspace Description](https://support.researchallofus.org/hc/en-us/articles/30351591538580-Writing-Your-Workspace-Description)
+    * [Sample Workspace Description](https://support.researchallofus.org/hc/en-us/articles/360042673211-Sample-Workspace-Description)
+8. Extra: 
+    * Browse Featured Workspaces, duplicate one and explore. 
 
 ##### **Week 2: Data Organization and Extraction (EHR and Survey)**
 1. Learn to use Cohort Builder and Dataset Builder
