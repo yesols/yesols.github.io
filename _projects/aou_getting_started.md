@@ -5,8 +5,9 @@ description:
 img: assets/img/aou.jpg
 importance: 1
 category: work
-permalink: /all-of-us/
+permalink: /projects/all-of-us/
 ---
+
 
 ##### **1. Registration and Training**
 * Go to the *All of Us* Research [Hub](https://www.researchallofus.org). Click on the "REGISTER" button on the top right corner and follow the instructions to verify identity and create an account.
@@ -68,7 +69,54 @@ permalink: /all-of-us/
 ##### **5. More about Survey Data**
 
 
+<br>
+
+<h3>📘 Programming Tutorials</h3>
+<div class="row mt-3">
+
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/projects/all-of-us/python/" class="stretched-link text-decoration-none" style="color: inherit;">
+            Intro to Python
+          </a>
+        </h5>
+        <p class="card-text">Introduction to dataframes, data manipulation, and visualization using Python.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/projects/all-of-us/r-tutorial/" class="stretched-link text-decoration-none" style="color: inherit;">
+            Intro to R
+          </a>
+        </h5>
+        <p class="card-text">Coming soon.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<h3>💾 Additional Resources</h3>
+<div class="row mt-3">
+
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https://support.researchallofus.org/hc/en-us" target="_blank" class="stretched-link text-decoration-none" style="color: inherit;">
+            Official Support
+          </a>
+        </h5>
+        <p class="card-text">Access the official All of Us User Support Hub and documentation.</p>
+      </div>
+    </div>
+  </div>
 
 
-##### **Programming Resouces**
-
+</div>
