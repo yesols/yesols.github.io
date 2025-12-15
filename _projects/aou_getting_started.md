@@ -8,6 +8,38 @@ category: work
 permalink: /projects/all-of-us/
 ---
 
+<h3> Programming Tutorials</h3>
+<div class="row mt-3">
+
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/projects/all-of-us/python/" class="stretched-link text-decoration-none" style="color: inherit;">
+            Intro to Python
+          </a>
+        </h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mb-3">
+    <div class="card h-100 hoverable">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/projects/all-of-us/r/" class="stretched-link text-decoration-none" style="color: inherit;">
+            Intro to R
+          </a>
+        </h5>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<br>
+
+<h3> All of Us Researcher Workbench</h3>
 
 ##### **1. Registration and Training**
 * Go to the *All of Us* Research [Hub](https://www.researchallofus.org). Click on the "REGISTER" button on the top right corner and follow the instructions to verify identity and create an account.
@@ -71,38 +103,9 @@ permalink: /projects/all-of-us/
 
 <br>
 
-<h3>📘 Programming Tutorials</h3>
-<div class="row mt-3">
 
-  <div class="col-sm-6 mb-3">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">
-          <a href="/projects/all-of-us/python/" class="stretched-link text-decoration-none" style="color: inherit;">
-            Intro to Python
-          </a>
-        </h5>
-        <p class="card-text">Introduction to dataframes, data manipulation, and visualization using Python.</p>
-      </div>
-    </div>
-  </div>
 
-  <div class="col-sm-6 mb-3">
-    <div class="card h-100 hoverable">
-      <div class="card-body">
-        <h5 class="card-title">
-          <a href="/projects/all-of-us/r-tutorial/" class="stretched-link text-decoration-none" style="color: inherit;">
-            Intro to R
-          </a>
-        </h5>
-        <p class="card-text">Coming soon.</p>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<h3>💾 Additional Resources</h3>
+<h3>Additional Resources</h3>
 <div class="row mt-3">
 
   <div class="col-sm-6 mb-3">
