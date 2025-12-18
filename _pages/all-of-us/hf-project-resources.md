@@ -43,6 +43,8 @@ horizontal: false
     * [Sample Workspace Description](https://support.researchallofus.org/hc/en-us/articles/360042673211-Sample-Workspace-Description)
 8. Extra: 
     * Browse Featured Workspaces, duplicate one and explore. 
+        * Recommended Workspace: Beginner Intro to AoU Data and the Workbench
+    
 
 ##### **Week 2: Data Organization and Extraction (EHR and Survey)**
 1. Learn to use Cohort Builder and Dataset Builder
@@ -52,6 +54,12 @@ horizontal: false
             </div>
         </div>
     </div>
-2. More on survey data
+2. Create a cohort of participants with a history of heart failure
+    * What should be the criteria? (at least 2 occurrences in EHR, at least 1 dx and HF med, etc)
+    * What should be the age group?
+3. Clinical variables 
+    * Medical hx (we already have this code)
+    * Medications (comprehensive list of classes and their OMOP Concept ID)
+    * Procetures
+4. Survey data variables
     * Check out various surveys and forms: Data & Tools > Survey Explorer 
-    * Featured workspace: 
