@@ -84,6 +84,17 @@
       "institution": "University of Idaho",
       "location": "Moscow, ID",
       "url": "",
+      "area": "Courses: STAT 5070 Experimental Design, STAT 5170 Statistical Learning/Predictive Modeling, MATH 4520 Mathematical Statistics, MATH 4510 Probability Theory",
+      "studyType": "Academic Certificate in Statistics",
+      "startDate": "2018-08-30",
+      "endDate": "2025-12-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Idaho",
+      "location": "Moscow, ID",
+      "url": "",
       "area": "Dissertation: Investigating the Influence of Capsid Protein Stability on Viral Fitness using Systematic, High-throughput Approaches",
       "studyType": "PhD in Bioinformatics and Computational Biology",
       "startDate": "2018-08-01",
