@@ -9,10 +9,10 @@ last_name: Sapozhnikov
 contact_note: >
   Best way to ontact me is via email: yesols [at] uidaho [dot] edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A registered nurse and a data scientist conducting research in population health outcome using statistical modeling and machine learning methods.
+  Yesol's personal academic website: Yesol is a registered nurse and a data scientist conducting research in population health outcome using statistical modeling and machine learning methods.
 footer_text: >
 
-keywords: yesol sapozhnikov, yesol, yesols, health research, machine learning, statistical modeling # add your own keywords or leave empty
+keywords: yesol sapozhnikov, yesol, yesols, yesol s, health research, machine learning, statistical modeling # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
