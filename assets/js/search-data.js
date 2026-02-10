@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-getting-started-with-all-of-us-data",
-          title: 'Getting Started with All of Us Data',
+        },{id: "projects-getting-started-with-all-of-us-projects",
+          title: 'Getting Started with All of Us Projects',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/all-of-us/";
