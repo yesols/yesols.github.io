@@ -35,12 +35,13 @@ horizontal: false
 ## Current Projects
 
 ##### **Rural Heart Failure Patients and Perceived Health**
-Managing heart failure can be challenging for rural individuals due to many logistical barriers. Using electronic health records and survey data, this study seeks to understand factors that influence health outcomes in those with heart failure in rural areas by building machine learning models to predict self-reported perception of health. <br>
-([Assistant resources](/all-of-us/hf-project-resources))
+Managing heart failure can be challenging for rural individuals due to many logistical barriers. Using electronic health records and survey data, this study seeks to understand factors that influence health outcomes in those with heart failure in rural areas by building machine learning models to predict self-reported perception of health. 
 
 ##### **Antibiotic-Resistant Infections**
 Antibiotic-resistant infections pose a serious global health threat. In this project, we leverage the rich dataset from [*All of Us* Research Program](https://allofus.nih.gov) to learn significant genetic, clinical, and socio-environmental risk factors in developing antibiotic-resistant infections. This project is part of the [All of Us Biomedical Researchers Scholars Program](https://www.bcm.edu/departments/molecular-and-human-genetics/engagement/all-of-us-evenings-with-genetics-research-program/all-of-us-biomedical-researchers-scholars-program) by Baylor College of Medicine, Cohort 4. *(Team Resistance: Natasha Mavengere, Easton Ford, Yesol Sapozhnikov, Jordan Langston, Stella Adeyemo, Greater Oyejobi)*
 
+##### **Genetics of Lipoprotein Lipase Activity**
+Lipoprotein lipase (LPL) is a key enzyme in lipid metabolism that hydrolyzes triglyerides into free fatty acids and monoacylglycerol. Genetic variants of proteins involved in LPL activity have been associated with cardiovascular diseases. This study will extend the results from GWAS of Mexican-American Coronary Artery Disease cohort and lipid trait polygenic risk scores to a larger cohort and also explore phenome-wide association.
 
 <br>
 ## Student Projects
