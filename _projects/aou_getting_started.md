@@ -73,31 +73,7 @@ permalink: /projects/all-of-us/
 
 
 <h3> Hands-On Workshop</h3>
-I will offer a workshop either prior to or during the first week of the Triple I project period. You may attend in-person or by Zoom, although it will be difficult to get direct help if you attend by Zoom. Sessions will not be recorded due to the sensitive nature of the *All of Us* data. However, workshop materials including code examples will be available on the workshop website (coming soon)
-
-The workshop will consist of four 2-hr sessions and will cover following topics:
-  * Session 1: 
-    * Introduction to cloud computing
-    * Super-brief introduction to relational database structures and queries
-    * Selecting cohorts and building your dataset
-  * Session 2:
-    * Introduction to R
-    * Working with dataframes in R
-    * Obtaining query results and data wrangling
-  * Session 3:
-    * More data wrangling: survey data
-    * Exploratory data analysis
-    * Data visualization
-  * Session 4:
-    * Performing statistical tests
-    * Fitting regression models
-
-Prerequisites:
-  * You must have completed all the previous steps as laid out on this page. 
-  * You must be a registered user and have created a Workspace prior to the workshop.
-  * For project teams consisting of multiple students, *all* members must be registered users. The project Workspace may be created by the team leader, but others must also have their own workspaces -- see me prior to the workshop to set up "educational" workspaces.
-  * While not required, I highly recommend reviewing the Programming Tutorials at the bottom of the page prior to Session 2.
-
+I will offer a workshop either in early spring or early summer depending on students needs. The workshop will consist of four 2-hr in-person sessions and they will not be recorded due to the sensitive nature of the *All of Us* data. However, workshop materials including code examples will be available on the [workshop website](https://yesols.github.io/aou-workshop/).
 
 
 <br>
