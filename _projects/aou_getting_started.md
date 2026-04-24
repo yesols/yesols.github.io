@@ -45,12 +45,14 @@ You can choose either "Registered Tier" or "Controlled Tier" level of access. Th
 
 <h3> C. JupyterLab</h3>
 
-The Researcher Workbench provides users with pre-installed analysis tools such as JupyterLab, RStudio, and Visual Studio Code. If you are new to programming and will be attending our [workshop](https://yesols.github.io/aou-workshop/) where we will use JupyterLab with R, watch the following short videos to familiarize with the environment. (Ignore the installation part.)
+The Researcher Workbench provides users with pre-installed analysis tools such as JupyterLab, RStudio, and Visual Studio Code. If you are new to programming and will be attending our [workshop](https://yesols.github.io/aou-workshop/) where we will use JupyterLab with R, watch the following short videos to familiarize with the environment. The first video will show you what a Jupyter Notebook is and how to navigate within it. The second video will go over JupyterLab, a fancier analysis environment that offers more functionalities beyond Jupyter Notebook. 
 
-* Jupyter Notebook Basics (Watch until 11:07)
+In both videos, ignore the installation parts -- the installation is necessary only if you are using Jupyter on your own computer and do not apply when using the *All of Us* Workbench.
+
+* Jupyter Notebook Basics
   <div class="row mt-3">
       <div class="col-sm-10 mx-auto"> <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/embed/haIZWNaFW4A?si=5-Zz6fQmWVohGd2p&amp;start=254" title="YouTube video player" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/H9Iu49E6Mxs?si=fzBs6mTloh-mg7-G&amp;start=36" title="YouTube video player" allowfullscreen></iframe>
           </div>
       </div>
   </div>
