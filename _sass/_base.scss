@@ -1515,3 +1515,9 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+
+// Custom: about-page subtitle in the theme accent colour
+.post-header .desc {
+  color: var(--global-theme-color);
+}
