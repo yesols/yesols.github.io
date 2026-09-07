@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: Courses and workshops taught at the University of Idaho and Cedars-Sinai Medical Center, spanning research methods, data science, and clinical nursing education.
 nav: true
 nav_order: 4
 ---
@@ -10,10 +10,10 @@ nav_order: 4
 ### University of Idaho
 
 
-##### **Research Methods**
-Lecturer (Summer 2024, Summer 2025)
-* Delivered lectures on "Case-control Studies", "Screening and Diagnostic Studies", and "Regression"
-* Led weekly small group discussions 
+##### **WWAMI - Fundamentals of Medical Science & Research**
+Lecturer (Summer 2024, Summer 2025, Summer 2026)
+* Research Methods 
+* Biochemistry (2026)
 
 
 ##### **Data Carpentry Workshop:** Data Wrangling and Processing for Genomics

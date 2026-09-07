@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Peer-reviewed publications and preprints in statistical modeling, bioinformatics, and population health.
 nav: true
 nav_order: 3
 ---
