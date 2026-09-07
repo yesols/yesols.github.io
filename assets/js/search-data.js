@@ -11,28 +11,28 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "",
+          description: "Research projects and resources.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "Peer-reviewed publications and preprints in statistical modeling, bioinformatics, and population health.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "",
+          description: "Courses and workshops taught at the University of Idaho and Cedars-Sinai Medical Center, spanning research methods, data science, and clinical nursing education.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Curriculum vitae — education, research, teaching, and publications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -73,7 +73,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=xQ-s2DEAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=xQ-s2DEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
