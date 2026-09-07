@@ -1,0 +1,40 @@
+{%- comment -%}
+  Renders site.data.teaching as grouped cards.
+  Styles live in the `_styles` block of _pages/teaching.md.
+{%- endcomment -%}
+
+<div class="teaching">
+  {%- for group in site.data.teaching -%}
+    <section class="teaching-group">
+      <h2 class="teaching-inst">
+        {{ group.institution }}
+        {%- if group.years %} <span class="teaching-inst-years">{{ group.years }}</span>{% endif -%}
+      </h2>
+
+      {%- for course in group.courses -%}
+        <div class="teaching-card">
+          <div class="teaching-card-top">
+            <h3 class="teaching-title">
+              {%- if course.url -%}
+                <a href="{{ course.url }}">{{ course.title }}<i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+              {%- else -%}
+                {{ course.title }}
+              {%- endif -%}
+            </h3>
+            {%- if course.term %}<span class="teaching-term">{{ course.term }}</span>{% endif -%}
+          </div>
+
+          {%- if course.role %}<span class="teaching-role">{{ course.role }}</span>{% endif -%}
+
+          {%- if course.details -%}
+            <div class="teaching-details">
+              {%- for line in course.details -%}
+                <span>{{ line }}</span>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    </section>
+  {%- endfor -%}
+</div>

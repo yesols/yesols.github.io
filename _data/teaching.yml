@@ -1,0 +1,84 @@
+# Teaching page content. Rendered by _includes/teaching.liquid.
+#
+# To add a course, copy an entry below and fill it in. Every field except
+# `title` is optional -- omit what does not apply.
+#   title:   course name (required)
+#   role:    Instructor / Lecturer / Course Director / Helper ...
+#   term:    Spring 2026, Summer 2024, 2025, 2026, 2015-2018 ...
+#   url:     link to a course site (makes the title a link)
+#   details: list of short lines shown under the card
+
+- institution: University of Idaho
+  courses:
+    - title: WWAMI - Fundamentals of Medical Science & Research
+      role: Lecturer
+      term: Summer 2024, 2025, 2026
+      details:
+        - Research Methods
+        - Biochemistry (2026)
+
+    - title: SHAMP All of Us Workshop
+      role: Instructor
+      term: Spring 2026
+      url: https://yesols.github.io/aou-workshop/
+      details:
+        - A hands-on workshop to gain skills in basic R programming and familiarity with All of Us data and Workbench.
+
+    - title: Data Wrangling and Processing for Genomics
+      role: Instructor
+      term: Spring 2022
+      details:
+        - Data Carpentry workshop.
+
+    - title: What They Forgot to Teach You about R
+      role: Instructor
+      term: Spring 2022
+      details:
+        - Software Carpentry workshop.
+
+    - title: Unix, Git, and Programming for Novices
+      role: Helper
+      term: Spring 2021
+      details:
+        - Software Carpentry workshop.
+
+- institution: Cedars-Sinai Medical Center
+  years: 2015-2018
+  courses:
+    - title: Oncology Core Curriculum
+      role: Lecturer
+      details:
+        - Review course for nurses seeking oncology certification (OCN).
+        - Lectures on carcinogenesis, cancer statistics, and early detection.
+
+    - title: Med-Surg Certification Review
+      role: Lecturer
+      details:
+        - Review course for nurses seeking med-surg certification (CMSRN).
+        - Lectures on cardiovascular system disorders and immune system disorders.
+
+    - title: Hematopoietic Stem Cell Transplant Course
+      role: Lecturer
+      details:
+        - Course preparing nurses to administer HSCT/BMT.
+        - Lecture on introduction to the immune system.
+
+    - title: Basic Electrocardiography Interpretation and Nursing Management
+      role: Instructor
+      details:
+        - Two-day course for new-graduate RNs in med-surg units, offered 4-5 times a year.
+        - Developed course material and exams.
+        - Lectures on cardiac electrophysiology, principles of electrocardiography, basic interpretation, and nursing management.
+
+    - title: Chemotherapy Practicum
+      role: Instructor
+      details:
+        - Chemotherapy drugs lecture.
+        - Hands-on practicum of administering chemotherapy drugs.
+
+    - title: Medical-Surgical Skills Lab
+      role: Facilitator
+      details:
+        - Refreshers on EKG interpretation, clinical policy and procedures, electronic health record documentation updates, and hyperglycemia protocol.
+        - Hands-on training on chest tube management.
+        - Code blue simulation.
