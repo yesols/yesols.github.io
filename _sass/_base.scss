@@ -1521,3 +1521,11 @@ mjx-container[jax="CHTML"][display="true"] {
 .post-header .desc {
   color: var(--global-theme-color);
 }
+
+
+// Custom: mute the news date column to match secondary text elsewhere
+.news th {
+  font-size: 0.88rem;
+  font-weight: 400;
+  color: var(--global-text-color-light);
+}

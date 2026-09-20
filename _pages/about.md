@@ -10,6 +10,15 @@ _styles: >
     font-family: inherit;
   }
 
+  .post h2 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--global-theme-color);
+    margin: 1.75rem 0 0.7rem 0;
+  }
+
   .lab-cta {
     border: 1px solid var(--global-divider-color);
     border-left: 3px solid var(--global-theme-color);
