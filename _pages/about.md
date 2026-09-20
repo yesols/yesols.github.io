@@ -5,6 +5,47 @@ permalink: /
 subtitle: Nurse scientist · statistical modeling · genomics · population health
 seo_title: Yesol Sapozhnikov — Nurse Scientist, University of Idaho
 last_modified_at: 2026-09-20
+_styles: >
+  .profile .more-info {
+    font-family: inherit;
+  }
+
+  .lab-cta {
+    border: 1px solid var(--global-divider-color);
+    border-left: 3px solid var(--global-theme-color);
+    border-radius: 5px;
+    background-color: rgba(74, 121, 158, 0.05);
+    background-color: color-mix(in srgb, var(--global-theme-color) 6%, transparent);
+    padding: 0.7rem 0.8rem;
+    margin-top: 0.9rem;
+    text-align: left;
+  }
+
+  .lab-cta-q {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: var(--global-text-color);
+  }
+
+  .lab-cta-btn {
+    display: inline-block;
+    border: 1.5px solid var(--global-theme-color);
+    color: var(--global-theme-color);
+    border-radius: 4px;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .lab-cta-btn:hover {
+    background-color: var(--global-theme-color);
+    color: var(--global-bg-color);
+    text-decoration: none;
+  }
 
 
 profile:
@@ -12,7 +53,9 @@ profile:
   image: yesol_bee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    
+    <div class="lab-cta"><span class="lab-cta-q">Looking for research
+    experience?</span><a class="lab-cta-btn" href="/icohr/">ICoHR Lab
+    &rarr;</a></div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
