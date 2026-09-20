@@ -37,7 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-getting-started-with-all-of-us-projects",
+        },{id: "news-attended-the-summer-omics-nursing-institute-at-the-nih-a-week-long-program-on-applying-molecular-omics-methods-to-symptom-science-research-what-an-incredible-event-where-like-minded-nurses-came-together-and-learned-it-was-also-amazing-connecting-with-cedars-sinai-colleagues-more-on-linkedin",
+          title: 'Attended the Summer Omics Nursing Institute at the NIH — a week-long program...',
+          description: "",
+          section: "News",},{id: "news-the-university-of-idaho-s-direct-entry-master-of-science-in-nursing-program-is-now-accepting-applications-through-nursingcas-i-am-excited-to-be-part-of-the-growing-list-of-health-professions-programs-in-the-school-of-health-and-medical-professions",
+          title: 'The University of Idaho’s Direct-Entry Master of Science in Nursing Program is now...',
+          description: "",
+          section: "News",},{id: "projects-getting-started-with-all-of-us-projects",
           title: 'Getting Started with All of Us Projects',
           description: "",
           section: "Projects",handler: () => {
