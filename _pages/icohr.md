@@ -116,6 +116,7 @@ I do not have funded positions at this time. But if you are interested in joinin
 Health risk is shaped by where people live and work, the stresses they carry, and the resources they can reach. This project combines many social and clinical factors into a single score, tests how well it predicts psychiatric conditions, and asks whether social circumstances change the effect of inherited genetic risk.
   </div>
   <ul class="icohr-detail">
+    <li> PI: Colin Xu, Department of Psychology and Communication, CLASS
     <li>Develop machine-learning-based predictive tools from clinical and social data to predict depression, anxiety, PTSD, and substance use disorders</li>
     <li>Investigate interaction between genetic risk and social risk</li>
   </ul>
