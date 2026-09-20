@@ -186,7 +186,6 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _posts
-  - _news
   - _pages/people.md 
   - _people
   - _pages/books.md
