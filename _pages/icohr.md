@@ -12,7 +12,7 @@ _styles: >
     letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--global-theme-color);
-    margin: 2.5rem 0 1rem 0;
+    margin: 1.75rem 0 0.7rem 0;
   }
 
   ul.icohr-goals {
@@ -24,7 +24,7 @@ _styles: >
   ul.icohr-goals li {
     position: relative;
     padding-left: 1.15rem;
-    margin-bottom: 0.7rem;
+    margin-bottom: 0.35rem;
   }
 
   ul.icohr-goals li:before {
@@ -42,20 +42,24 @@ _styles: >
     border: 1px solid var(--global-divider-color);
     border-radius: 6px;
     background-color: var(--global-card-bg-color);
-    padding: 1.1rem 1.25rem;
-    margin-bottom: 0.9rem;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.55rem;
   }
 
   h3.icohr-project-title {
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.35;
-    margin: 0 0 0.6rem 0;
+    margin: 0 0 0.45rem 0;
     color: var(--global-text-color);
   }
 
   .icohr-summary {
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.55rem;
+  }
+
+  .icohr-summary p {
+    margin-bottom: 0;
   }
 
   .icohr-detail {
@@ -67,7 +71,24 @@ _styles: >
   }
 
   .icohr-detail li {
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .icohr-detail li:last-child {
+    margin-bottom: 0;
+  }
+
+  .icohr-intro p:last-child,
+  ul.icohr-goals li:last-child {
+    margin-bottom: 0;
+  }
+
+  .icohr-students p {
+    margin-bottom: 0.7rem;
+  }
+
+  .icohr-students p:last-child {
+    margin-bottom: 0;
   }
 
 ---
