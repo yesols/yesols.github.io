@@ -11,11 +11,6 @@ _styles: >
     line-height: 1.65;
   }
 
-  .icohr-name {
-    font-weight: 600;
-    color: var(--global-theme-color);
-  }
-
   h2.icohr-heading {
     font-size: 0.78rem;
     font-weight: 700;
@@ -89,7 +84,7 @@ _styles: >
 ---
 
 <div class="icohr-intro" markdown="1">
-<span class="icohr-name">The Integrative Computational Health Research (ICoHR) Lab</span> is an interdisciplinary research effort in the School of Health and Medical Professions, University of Idaho.
+**The Integrative Computational Health Research (ICoHR) Lab** is an interdisciplinary research effort in the School of Health and Medical Professions, University of Idaho.
 </div>
 
 <h2 class="icohr-heading">Goals</h2>
@@ -116,7 +111,7 @@ I do not have funded positions at this time. But if you are interested in joinin
 Health risk is shaped by where people live and work, the stresses they carry, and the resources they can reach. This project combines many social and clinical factors into a single score, tests how well it predicts psychiatric conditions, and asks whether social circumstances change the effect of inherited genetic risk.
   </div>
   <ul class="icohr-detail">
-    <li> PI: Colin Xu, Department of Psychology and Communication, CLASS
+    <li>PI: Colin Xu, Department of Psychology and Communication, CLASS</li>
     <li>Develop machine-learning-based predictive tools from clinical and social data to predict depression, anxiety, PTSD, and substance use disorders</li>
     <li>Investigate interaction between genetic risk and social risk</li>
   </ul>
