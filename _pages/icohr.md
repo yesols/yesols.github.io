@@ -6,11 +6,6 @@ description: Integrative Computational Health Research Lab
 nav: true
 nav_order: 2
 _styles: >
-  .icohr-intro {
-    font-size: 1.02rem;
-    line-height: 1.65;
-  }
-
   h2.icohr-heading {
     font-size: 0.78rem;
     font-weight: 700;
@@ -30,7 +25,6 @@ _styles: >
     position: relative;
     padding-left: 1.15rem;
     margin-bottom: 0.7rem;
-    line-height: 1.6;
   }
 
   ul.icohr-goals li:before {
@@ -53,7 +47,7 @@ _styles: >
   }
 
   h3.icohr-project-title {
-    font-size: 1.02rem;
+    font-size: 1rem;
     font-weight: 500;
     line-height: 1.35;
     margin: 0 0 0.6rem 0;
@@ -61,13 +55,11 @@ _styles: >
   }
 
   .icohr-summary {
-    font-size: 0.95rem;
-    line-height: 1.6;
     margin-bottom: 0.75rem;
   }
 
   .icohr-detail {
-    font-size: 0.86rem;
+    font-size: 0.88rem;
     line-height: 1.55;
     opacity: 0.85;
     margin: 0;
@@ -78,9 +70,6 @@ _styles: >
     margin-bottom: 0.3rem;
   }
 
-  .icohr-students {
-    line-height: 1.65;
-  }
 ---
 
 <div class="icohr-intro" markdown="1">

@@ -23,7 +23,7 @@ _styles: >
 
   .lab-cta-q {
     display: block;
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     font-weight: 600;
     line-height: 1.35;
     margin-bottom: 0.6rem;
@@ -36,7 +36,7 @@ _styles: >
     color: var(--global-theme-color);
     border-radius: 4px;
     padding: 0.3rem 0.7rem;
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     font-weight: 500;
     white-space: nowrap;
   }
