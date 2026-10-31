@@ -108,7 +108,7 @@ _styles: >
 <h2 class="icohr-heading">Students</h2>
 
 <div class="icohr-students" markdown="1">
-I welcome students who are interested in data science for health research or quantitative genomics. While programming experience and a statistics background are helpful, they are not required as long as you are motivated to learn.
+I welcome students who are interested in data science for health research or quantitative genomics. While programming experience is helpful, it is not required as long as you are motivated to learn. I do expect some level of coursework in math/stats or genetics depending on the nature of your research interest.
 
 I do not have funded positions at this time. But if you are interested in joining one of the projects below, or in developing a related project of your own, I would like to hear from you — students gain computational research experience and co-authorship on conference abstracts or manuscripts. Please email me at [yesols@uidaho.edu](mailto:yesols@uidaho.edu) with a brief summary of your background, interests, and goals.
 </div>
